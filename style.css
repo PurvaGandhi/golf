@@ -30,13 +30,7 @@ body{
   height:75px;
 
 }
-#new img{
-    width:100%;
-     height: 100%;
-   
-    object-fit:cover;
-    position:fixed;
-    z-index: -1;
+
 #nav h4{
     text-transform: uppercase;
 }
