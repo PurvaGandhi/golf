@@ -24,7 +24,7 @@ body{
     gap:50px;
     position: fixed;
      z-index: 99;
-     background-color: #77a1022c;
+    
 }
 
 #nav img{
@@ -66,7 +66,7 @@ body{
     align-items:center;
     justify-content: center;
     z-index: 10;
-     background-color: #77a1022c;
+   
 }
 #page1 h1{
    font-size:140px;
