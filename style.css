@@ -24,11 +24,7 @@ body{
     gap:50px;
     position: fixed;
      z-index: 99;
-}
-#pls{
-    background-size:cover;
-    width:100%;
-    height:100%;
+     background-color: #77a1022c;
 }
 
 #nav img{
