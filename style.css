@@ -30,6 +30,8 @@ body{
   height:75px;
 
 }
+#new img{
+    width:100%;
 #nav h4{
     text-transform: uppercase;
 }
